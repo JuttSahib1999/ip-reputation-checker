@@ -189,7 +189,6 @@ GitHub: @JuttSahib1999
 
 LinkedIn: Abdul Muqeet Tabraiz
 
-Portfolio: [Your Website if you have one]
 
 🙏 Acknowledgments
 AbuseIPDB for their threat intelligence API
